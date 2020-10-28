@@ -1,0 +1,9 @@
+C:\Users\advan\source\repos\Lighteous.Pokayoke\Pokayoke\bin\Debug\netstandard2.0\com.Lighteous.Pokayoke.deps.json
+C:\Users\advan\source\repos\Lighteous.Pokayoke\Pokayoke\bin\Debug\netstandard2.0\com.Lighteous.Pokayoke.dll
+C:\Users\advan\source\repos\Lighteous.Pokayoke\Pokayoke\bin\Debug\netstandard2.0\com.Lighteous.Pokayoke.pdb
+C:\Users\advan\source\repos\Lighteous.Pokayoke\Pokayoke\obj\Debug\netstandard2.0\Pokayoke.csprojAssemblyReference.cache
+C:\Users\advan\source\repos\Lighteous.Pokayoke\Pokayoke\obj\Debug\netstandard2.0\Pokayoke.AssemblyInfoInputs.cache
+C:\Users\advan\source\repos\Lighteous.Pokayoke\Pokayoke\obj\Debug\netstandard2.0\Pokayoke.AssemblyInfo.cs
+C:\Users\advan\source\repos\Lighteous.Pokayoke\Pokayoke\obj\Debug\netstandard2.0\com.Lighteous.Pokayoke.dll
+C:\Users\advan\source\repos\Lighteous.Pokayoke\Pokayoke\obj\Debug\netstandard2.0\com.Lighteous.Pokayoke.pdb
+C:\Users\advan\source\repos\Lighteous.Pokayoke\Pokayoke\obj\Debug\netstandard2.0\Pokayoke.csproj.CoreCompileInputs.cache
